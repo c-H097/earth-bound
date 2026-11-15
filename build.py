@@ -58,3 +58,6 @@ out = here / "dist" / "earth_analog_finder.html"
 out.parent.mkdir(exist_ok=True)
 out.write_text(t, encoding="utf-8")
 print(f"Wrote {out} ({out.stat().st_size/1e6:.2f} MB)")
+
+
+

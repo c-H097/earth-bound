@@ -60,3 +60,7 @@ Sentinel-2 cloudless 2020 by EOX IT Services GmbH (CC BY-NC-SA 4.0; contains mod
 | `data-retr.py` | Team script: median LOLA slope/roughness for a south-pole window (needs rasterio and the LOLA GeoTIFFs) |
 | `lib/` | D3, TopoJSON, three.js, world maps (110m, 50m), Qatar 10m outline |
 | `dist/earth_analog_finder.html` | Built page: open this in a browser |
+
+
+
+## AI tools were used in the creation of the website code, front-end and backend. Such as Claude and ChatGPT
